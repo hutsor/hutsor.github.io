@@ -6,6 +6,9 @@ export default function App() {
         <li className="main-menu__item">
           <a href="https://hutsor.github.io/hutsori">헛소리 제조기</a>
         </li>
+        <li className="main-menu__item">
+          <a href="https://hutsor.github.io/jobsori">잡소리 생성기</a>
+        </li>
       </menu>
     </div>
   );
